@@ -8,4 +8,4 @@ We will continue to send updates on our progress.
 
  
 
-Thank you for your cooperation.save
+Thanks for learning git
